@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soomro007
+- 👋 Hi, I’m @soomroferozahmed
 - 👀 I’m interested in Data Science Projects
 - 🌱 I’m currently learning mathematics of machine learning algorithms and its programming in python
 - 💞️ I’m looking to collaborate on data analysis projects
